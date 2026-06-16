@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Machine Learning Models README
 
 ## Introduction
@@ -391,4 +390,3 @@ Understanding these algorithms provides a strong foundation in machine learning 
 - Scikit-learn Documentation
 - XGBoost Official Documentation
 - Machine Learning Fundamentals
-EOF
